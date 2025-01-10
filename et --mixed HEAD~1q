@@ -1,0 +1,30 @@
+[33mcommit e595eec7d84962d8c14c61c7bfd74177a54a0a0a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: WakakiVongola <133748743+WakakiVongola@users.noreply.github.com>
+Date:   Fri Jan 10 15:56:48 2025 +0100
+
+    added asset TEXTMesh and button for menu UI
+
+[33mcommit fbb54f717eb8ce192710956f8be3af2eb1fb41e7[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 4d14b74 348aba4
+Author: WakakiVongola <133748743+WakakiVongola@users.noreply.github.com>
+Date:   Fri Jan 10 13:36:55 2025 +0100
+
+    Merge branch 'main' of https://github.com/WakakiVongola/a_maze_ingu
+
+[33mcommit 4d14b74161c915b9e813967e7c6887cffa469ede[m
+Author: WakakiVongola <133748743+WakakiVongola@users.noreply.github.com>
+Date:   Fri Jan 10 13:36:38 2025 +0100
+
+    trying to implement menu UI
+
+[33mcommit 348aba4570b1323b9cd3ba3b23a1f11cef98c54d[m
+Author: Aaron-kun <133748743+WakakiVongola@users.noreply.github.com>
+Date:   Fri Jan 10 10:47:50 2025 +0100
+
+    Create README.md
+
+[33mcommit f2cd8cd64c0c6cbde3c9d6fa188ed84874d7164e[m
+Author: WakakiVongola <133748743+WakakiVongola@users.noreply.github.com>
+Date:   Fri Jan 10 10:41:22 2025 +0100
+
+    initial commit
