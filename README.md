@@ -1,5 +1,6 @@
 # A-MAZE-ingu
-
+(work in progress)
+It is a maze game built with unity and C#. At this date the game is not finished yet according to the requirements 
 ## Requirements
 
 - Main Menu:
